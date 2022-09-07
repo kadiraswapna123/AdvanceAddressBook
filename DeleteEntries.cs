@@ -38,6 +38,6 @@ const delete_person = (id) => {
               </li>
           )      
         })}
-    </ol>```
+    </ol>```s
     }
 }
